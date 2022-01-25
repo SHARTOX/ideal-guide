@@ -1,5 +1,10 @@
 # SHARTOX...
-# Second
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+<!--
+**doing things**
+-->
+
+![SHARTOX](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
 
 
